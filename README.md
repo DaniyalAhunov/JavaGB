@@ -117,3 +117,11 @@ el = remove()
  7  8  9     11   20
 
  </details>
+
+ [Семинар 6](https://github.com/DaniyalAhunov/JavaGB/tree/main/Seminar6)
+<details><summary>Шестой семинар. Решение заданий</summary>
+Домашнее задание:
+
+* Описать построителя товаров 
+
+ </details>
